@@ -1,10 +1,10 @@
-# 📊 Controle de Qualidade com Excel
+# ☢️ Controle de Qualidade com Excel
 Projeto de análise de dados aplicado ao controle de qualidade em processos industriais, utilizando Excel para organização, tratamento e visualização de dados.
 
-## 📌 Objetivo
+## 🕹️ Objetivo
 Analisar dados de produção simulados, avaliando parâmetros como pH e viscosidade para determinar a conformidade dos lotes, além de identificar possíveis relações entre variáveis do processo e seu impacto na qualidade final do produto.
 
-## 🛠️ Ferramentas utilizadas
+## 🔍 Ferramentas utilizadas
 - Excel  
 - PROCV  
 - Tabela dinâmica  
